@@ -1,0 +1,74 @@
+.firstsection{
+ height: 100vh;
+ padding-top: 15%;
+ background-image: url("\ street2.jpg");
+
+}
+
+.secondsection{
+    height:100vh;
+    padding-top:1%;
+    background-image: url("sakura.jpg");
+
+}
+
+.thirdsection{
+    height:100vh;
+    padding-top: 1%;
+    background-image: url("sakura2.jpg");
+
+}
+.fourthsection{
+    height:100vh;
+    padding-top: 0.1%;
+    background-image: url("redflower.jpg");
+
+}
+
+#fifthsection{
+    height:100vh;
+    padding-top:1%;
+    background-image: url("prettyflowers.jpg");
+
+}
+
+
+#sixthsection{
+    height:100vh;
+    padding-top:1%;
+    background-image: url("lake.jpg");
+
+}
+
+
+.seventhsection{
+    height:100vh;
+    padding-top:1%;
+    background-image: url("sky.jpg");
+
+}
+
+#sadnessBorder{
+    border-style: groove;
+}
+
+
+.whiteFont{
+    color:white;
+}
+.blackFont{
+    color:black;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    border-radius: 55%;
+  }
+
+html {
+    scroll-behavior: smooth;
+  }
+  
